@@ -1,2 +1,1 @@
-First attempt at a bank app. 
-Features: deposit, withdrawal, check balance, account creation with unique account numbers
+Projects for develpoing coding skill, done in Python
