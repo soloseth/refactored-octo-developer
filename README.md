@@ -1,1 +1,1 @@
-Projects for develpoing coding skill, done in Python
+Projects for developing coding skill, done in Python
